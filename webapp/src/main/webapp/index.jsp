@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>welcome to Devops. I love learn Devops </h1>
+    <h1>we are working on Tomcat apache server </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -33,6 +33,6 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> Happy Learning. See You Again. </h1>
+   <h1> Happy Learning. Hosting By Sanjaya And Team. </h1>
    
 </form>
